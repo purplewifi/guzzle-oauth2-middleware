@@ -1,5 +1,5 @@
 {
-    "name": "frankkessler/guzzle-oauth2-middleware",
+    "name": "surdaft/guzzle-oauth2-middleware",
     "description": "OAuth2 middleware for Guzzle - Built off of Commerceguys/guzzle-oauth2-plugin package",
     "license": "MIT",
     "require": {
